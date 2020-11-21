@@ -65,7 +65,8 @@ header {
 
 header .logo img {
   padding: 5px;
-  height: 20vh;
+  height: 20vw;
+  max-height: 100px;
 }
 header .navigation {
   margin-top: 20px;
